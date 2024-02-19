@@ -5,12 +5,8 @@ This project sought to visually story tell the results of an analysis of the FIF
 Some of the analysis included identifying top performing players based on ratings, comparing the attributes that make up for good performance within a playing position and analysing the ratings of the players within different environments such as their clubs and their national teams.
 Furthermore, criteria such as age was looked at to determine how or if player attributes are affected by age.
 
-## Process
-### Saved my csv dataset as an excel dataset and imported it in to Tableau for analysis
-### Generated multiple visualizations to better understand the data
-
 ## Results
-I chose option 2 to allow for independent questions and answers as a challenge to myself. My data was based on the FIFA 2018 player ratings dataset.
+My data was based on the FIFA 2018 player ratings dataset.
 My data question was based on the satement; indepth analysis of high ranking players. I analysed their performance for national as well as club duty. Furthermore, I looked at their earnings and also how those wages may differ based on position played. With regards to position, I also looked at the different attributes, on avaerage, which make up for good performance within those positions. For the attributes, I looked at how age may affect the attributes.
 
 It was interesting to note that the highest ranked was second in terms of wages despite playing the same position with the highest paid. This could be due to the value of the clubs as well as value being derived from sponsorship opportunities.
