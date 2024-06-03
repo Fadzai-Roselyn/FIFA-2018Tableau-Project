@@ -1,4 +1,4 @@
-# Final-Project-Tableau
+# Tableau Project
 
 ## Project/Goals
 This project sought to visually story tell the results of an analysis of the FIFA 2018 Player ratings dataset.
