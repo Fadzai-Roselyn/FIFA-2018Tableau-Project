@@ -1,15 +1,5 @@
 ### Tableau Project
-
-You will be working with data from the Canadian Open Data portal. Specifically, you will work with the following datasets that are linked [in this folder](https://drive.google.com/drive/folders/1B2pYgUBLMVEq3rkbcMenu4An_JboESJd?usp=sharing) for download access. The files in the folder are:
-
-- Weekly earnings from 1.1.2001 to 15.4.2015 (weekly_earnings - CSV)
-- Housing constructions from 1955 to 2019 (real_estate_numbers - CSV)
-- House prices from 1.1.2005 to 1.9.2020 (real_estate_prices - EXCEL)
-- Housing_price_index from November 1979 to September 2020
-- Office_realestate_index from November 1979 to September 2020
-- Consumer index from November 1979 to September 2020
-
-#### Tasks:
+### Tasks:
 Use Tableau to answer the following questions and deliver results using a 5-minute PowerPoint or PDF presentation. All questions should be answered using the right visualizations:
 
 - Show the trend of house prices across Canada in the last 40 years (table housing_price_index).
