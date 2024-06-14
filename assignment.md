@@ -1,12 +1,4 @@
-
-In this Final Project, you have 2 options; you can choose the option of working on the pre-prepared questions that are a part of the Standard Final project (Option 1), or you can work on one of the provided five datasets and formulate your own data question and Dashboards in Tableau (Option 2). 
-
-It's up to you! 
-
-> #### Note  
-> If you choose to work on your own project (Option 2) and you feel lost after working on it for an hour or so (you can’t decide on a question based on the dataset, or are finding it difficult to get inspired), we recommend you to switch to the available Standard Final Project (Option 1) to finish the project on time.
-
-### Option 1: Standard Final Project
+### Tableau Project
 
 You will be working with data from the Canadian Open Data portal. Specifically, you will work with the following datasets that are linked [in this folder](https://drive.google.com/drive/folders/1B2pYgUBLMVEq3rkbcMenu4An_JboESJd?usp=sharing) for download access. The files in the folder are:
 
